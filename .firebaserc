@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "calcularprecio": {
+      "hosting": {
+        "first-app": [
+          "calcularprecio"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "calcularprecio"
+  }
+}
